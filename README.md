@@ -1,2 +1,2 @@
 # faridkanji.github.io
-My personal website.
+The personal website of Farid Kanji.
