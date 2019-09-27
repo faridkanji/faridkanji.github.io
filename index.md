@@ -1,7 +1,6 @@
 ---
 title: Farid Kanji
 ---
-# Gig Accounting
 
 # Accounting and Tax Services Available:
 -  GST Filing
