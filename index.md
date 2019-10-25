@@ -2,6 +2,8 @@
 title: Farid Kanji
 ---
 
+### | [Home](/) | [About](/about.html) |
+
 # Accounting and Tax Services Available:
 -  GST Filing
 -  Bookkeeping
