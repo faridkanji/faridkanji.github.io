@@ -7,4 +7,4 @@ title: Farid Kanji
 # Farid Kanji's Qualifications
 -  PMP
 -  P. Eng.
-
+-  Quickbooks Online Pro Advisor
